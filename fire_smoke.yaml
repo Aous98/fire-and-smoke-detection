@@ -1,0 +1,11 @@
+
+path: /home/aous/Desktop/personal projects/FireAndSmoke/data
+train: train
+val: val
+augment: True  
+mosaic: 0.5   
+mixup: 0.1     
+names: 
+  0: smoke
+  1: fire
+
